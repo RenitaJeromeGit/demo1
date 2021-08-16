@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Pariwesh",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "Pariwesh",
+      "id": 6
+    },
+    {
+      "name": "Pariwesh",
+      "id": 7
+    },
+    {
+      "name": "Pariwesh",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
