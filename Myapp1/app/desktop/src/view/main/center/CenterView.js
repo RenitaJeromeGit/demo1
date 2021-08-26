@@ -7,7 +7,8 @@ var store = Ext.create('Ext.data.Store', {
 		{ name: 'Test 1', progress: 0.10 },
 		{ name: 'Test 2', progress: 0.23 },
 		{ name: 'Test 3', progress: 0.86 },
-		{ name: 'Test 4', progress: 0.31 }
+		{ name: 'Test 4', progress: 0.31 },
+		{ name: 'Test 5', progress: 0.31 }
 	]
 });
 
